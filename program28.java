@@ -23,7 +23,7 @@
         fMarks = scanner.nextFloat();
 
         
-        System.out.println("welcome"+sName);
+        System.out.println("welcome" +sName);
         System.out.println("your age is : "+iAge);
         System.out.println("your marks : "+fMarks);
 

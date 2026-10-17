@@ -9,7 +9,7 @@
         System.out.println(" enter your name");
         String sName = scanner.nextLine();
 
-        System.out.println("welcome"+sName);
+        System.out.println("welcome" +sName);
     }
 
     

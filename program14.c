@@ -25,7 +25,7 @@ int main()
     if(scanf("%d",&iValue2) !=1)
 
     {
-        fprintf(stderr,"unable to proceed as input is valid\n");
+        fprintf(stderr,"unable to proceed as input is invalid\n");
 
         return EXIT_FAILURE;
     }

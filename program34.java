@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class program34
 {
-    public int Additiion(int iNo1, int iNo2)
+    public int Addition(int iNo1, int iNo2)
     {
         int iAns = 0;
         iAns = iNo1 + iNo2;
