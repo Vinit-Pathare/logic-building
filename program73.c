@@ -24,6 +24,6 @@ int main()
     printf(" enter the frequency : \n");
     scanf("%d",&iValue);
     Display(iValue);
-    EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 
 }

@@ -31,7 +31,7 @@ int main()
 
      iret=Summation(iValue);
 
-     printf("summation is : \n",iret);
+     printf("summation is : %d\n",iret);
     return EXIT_SUCCESS;
 
 }

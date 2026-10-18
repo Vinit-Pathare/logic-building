@@ -10,5 +10,6 @@ void Display()
 }
 int main()
 {
-    EXIT_SUCCESS;
+    Display();
+   return EXIT_SUCCESS;
 }
