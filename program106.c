@@ -51,8 +51,6 @@ int main()
         printf("it is not perfect number");
     }
     
-
-    
     
      return EXIT_SUCCESS;
 

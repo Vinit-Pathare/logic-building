@@ -1,5 +1,4 @@
-// input : 10
-// 1    3   7   9 
+
 
 
 #include<stdio.h>
