@@ -4,7 +4,7 @@
 int CountDigits(int iNo)
 {
     int iDigit = 0;
-    int  iSum = 0;
+    
     int iCount = 0;
 
     if(iNo < 0)
@@ -65,3 +65,4 @@ int main ()
 
     return EXIT_SUCCESS;
 }
+

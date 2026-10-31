@@ -10,19 +10,19 @@
 
 
         System.out.println(iNo % 10); // 2
-        iNo = iNo/10;                 //17590
+        iNo = iNo/10;                 //75590
         System.out.println("number is : "+iNo); //17590
 
          System.out.println(iNo % 10); // 0
-        iNo = iNo/10;                 //1759
+        iNo = iNo/10;                 //7559
         System.out.println("number is : "+iNo); //1759
 
         System.out.println(iNo % 10); // 9
-        iNo = iNo/10;                 //175
+        iNo = iNo/10;                 //755
         System.out.println("number is : "+iNo); //175
 
         System.out.println(iNo % 10); // 5
-        iNo = iNo/10;                 //17
+        iNo = iNo/10;                 //75
         System.out.println("number is : "+iNo); //17
     }
 }

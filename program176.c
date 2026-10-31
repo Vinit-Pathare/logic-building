@@ -46,10 +46,5 @@ int main ()
         printf("it is not  pallindrome number\n ");
     }
 
-
-    
-
-
-
     return EXIT_SUCCESS;
 }

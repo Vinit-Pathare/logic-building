@@ -15,8 +15,6 @@
 
         while (iNo !=0)
          {
-        
-         
         iNo = iNo/10;                 
         iCount++; 
          }
